@@ -26,6 +26,7 @@ header h1 {
 /* Main content */
 section {
     margin-bottom: 2rem;
+    padding: 2rem; /* Added padding */
 }
 
 nav {
@@ -35,8 +36,6 @@ nav {
 main {
     padding: 2rem;
 }
-
-
 
 h2 {
     font-size: 1.5rem;
