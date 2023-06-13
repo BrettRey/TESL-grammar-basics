@@ -42,6 +42,15 @@ h2 {
     color: #000033;
 }
 
+hr {
+    border: none;
+    border-top: 1px solid #333; /* You can change the color value to match your design */
+    color: #333; /* This needs to match the color defined in border-top */
+    background-color: #333; /* This also needs to match the color defined in border-top */
+    height: 1px;
+    width: 100%;
+}
+
 /* Footer */
 footer {
     background-color: #CC9900;
