@@ -19,11 +19,15 @@ header {
 }
 
 header h1 {
-    color: #fff;
+    color: #000033;
     text-align: center;
 }
 
 /* Main content */
+nav {
+    padding: 2rem;
+}
+
 main {
     padding: 2rem;
 }
