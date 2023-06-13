@@ -24,6 +24,10 @@ header h1 {
 }
 
 /* Main content */
+section {
+    margin-bottom: 2rem;
+}
+
 nav {
     padding: 2rem;
 }
@@ -32,9 +36,7 @@ main {
     padding: 2rem;
 }
 
-section {
-    margin-bottom: 2rem;
-}
+
 
 h2 {
     font-size: 1.5rem;
